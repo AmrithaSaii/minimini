@@ -1,0 +1,9 @@
+.charts {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .chart {
+    width: 45%;
+  }
+  

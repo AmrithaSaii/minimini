@@ -1,0 +1,21 @@
+nav {
+  background-color: #0096ff;
+  color: white;
+  width: 60%;
+  height: 90vh;
+  max-width: 200px;
+  font-size: 20px;
+  }
+  
+  .navbar-nav .nav-link {
+   margin-left: 25px;
+    padding: 20px;
+ }
+ .navbar-nav .nav-link:hover{
+    background-color: white;
+    border-radius: 8px;
+ }
+  
+ .navbar-nav .nav-link:hover a{
+  color: black;
+ }
